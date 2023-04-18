@@ -1,4 +1,7 @@
 ---
+title: MDX
+root: '/docs'
+parents: ['Get Started']
 ---
 
 # Capturing near-Earth asteroids around Earth
